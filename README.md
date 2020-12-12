@@ -3,7 +3,7 @@
 😄 Hi I'm Jinwoo'Hyun
 
 ### 🤔 Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimadonnaGit&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimadonnaGit&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimadonnaGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
