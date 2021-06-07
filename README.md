@@ -10,6 +10,4 @@
 
 저에 대해 좀 더 자세히 알고 싶으시면 아래 노션 링크를 눌러주세요!
 
-[노션 링크](https://www.notion.so/2021-Primadonna-87a1d8b5682a4873b2064ddfbae4e1b6)
-
-[이력서 링크](https://www.notion.so/The-Primadonna-68294dd87d2e4325a9b45dcbb04e25d9)
+[노션](https://www.notion.so/2021-Primadonna-87a1d8b5682a4873b2064ddfbae4e1b6) | [이력서](https://www.notion.so/The-Primadonna-68294dd87d2e4325a9b45dcbb04e25d9)
