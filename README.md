@@ -1,24 +1,15 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimadonnaGit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+**안녕하세요. 개발자 현진우입니다.**
 
-😄 Hi I'm Jinwoo'Hyun
+데이터를 통해 인사이트를 얻고, 인간보다 기계가 더 일을 잘할 수 있도록 만드는 것을 좋아하며, 
 
-### 🤔 Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimadonnaGit&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+사람들의 삶을 좀 더 여유롭고 스마트하게 만드는 것을 목표로 하는 개발자입니다.
 
-### 💬 LANGUAGE
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimadonnaGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+사람들과의 협업을 좀 더 효율적으로 하는 것에 관심이 많고, 새로운 프로젝트를 함에 있어 새로운 스택들을 도입하는 것을 좋아합니다. 
 
-<!--
-**PrimadonnaGit/PrimadonnaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+불편한 것을 깨닫고 불편함을 고치는 것에 가장 효율적인 개발이라는 직무를 하고 있는 것이 세상이 좀 더 편해지는데 일조하고 있다고 믿고 있습니다.
 
-Here are some ideas to get you started:
+저에 대해 좀 더 자세히 알고 싶으시면 아래 노션 링크를 눌러주세요!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... NodeJS, TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[노션 링크](https://www.notion.so/2021-Primadonna-87a1d8b5682a4873b2064ddfbae4e1b6)
+
+[이력서 링크](https://www.notion.so/The-Primadonna-68294dd87d2e4325a9b45dcbb04e25d9)
